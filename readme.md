@@ -1,5 +1,4 @@
-
-
+# PYTHON VERSION : 3.12.7
 Run the following commands to set up the project:
 
 ```bash
